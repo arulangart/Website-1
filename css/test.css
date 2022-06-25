@@ -1,0 +1,17 @@
+body{
+	background-color: DarkSeaGreen;
+}
+h1{
+font-size: 30px;
+color: DarkViolet;
+}
+h2{
+color: red;
+}
+.big{
+font-size: 50px;
+color: forestgreen;
+}
+.uppercase{
+text-transform: uppercase;
+}
